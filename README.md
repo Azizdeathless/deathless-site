@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Deathless - Eternal Darkness</title>
+  <style>
+    body {
+      background-color: #0a0a0a;
+      color: #f5f5f5;
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 1rem;
+    }
+    .container {
+      max-width: 700px;
+      margin: auto;
+      text-align: center;
+    }
+    img {
+      max-width: 100%;
+      margin: 1.5rem 0;
+    }
+    h1 {
+      font-size: 2.5rem;
+      margin: 0;
+    }
+    h2 {
+      font-style: italic;
+      font-weight: normal;
+      margin-top: 0.2rem;
+      margin-bottom: 2rem;
+    }
+    p {
+      font-size: 1.1rem;
+      line-height: 1.6;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <img src="https://via.placeholder.com/600x400?text=Logo+Skull" alt="Logo Tengkorak">
+    <h1>DEATHLESS</h1>
+    <h2>Eternal Darkness</h2>
+    <img src="https://via.placeholder.com/600x400?text=Deathless+Metal+Logo" alt="Logo Deathless">
+    <p>"Sebuah brand yang awal terbentuk dari pemikiran dan kesukaan terhadap produk lokal yang bertema Kegelapan, Horor, dan berhubungan dengan genre Metal."</p>
+    <img src="https://via.placeholder.com/600x600?text=Kaos+Deathless" alt="Kaos Deathless">
+  </div>
+</body>
+</html>
